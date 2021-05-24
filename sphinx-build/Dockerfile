@@ -1,4 +1,4 @@
-from ubuntu:18.04
+from ubuntu:20.04
 
 RUN apt-get update && apt-get upgrade -y
 
